@@ -20,6 +20,9 @@ A curated list of awesome street math / mental math / guesstimation / approximat
 ## Papers that use street-math
 
 [Subtle features in projectile motion with quadratic drag found through Taylor series expansions](https://aapt.scitation.org/doi/full/10.1119/10.0009227)
+
 [Universal functions - Sanjoy Mahajan](https://aapt.scitation.org/doi/full/10.1119/5.0088966)
+
 [Quantifying biomolecular diffusion with a “spherical cow” model](https://aapt.scitation.org/doi/full/10.1119/5.0075952)
+
 [Keeping our feet on the ground - Sanjoy Mahajan](https://aapt.scitation.org/doi/full/10.1119/1.5089414)
